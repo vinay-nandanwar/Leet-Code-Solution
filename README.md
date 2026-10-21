@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3110-score-of-a-string](https://github.com/vinay-nandanwar/Leet-Code-Solution/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/vinay-nandanwar/Leet-Code-Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
