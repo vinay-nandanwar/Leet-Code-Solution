@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/vinay-nandanwar/Leet-Code-Solution/tree/master/1920-build-array-from-permutation) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vinay-nandanwar/Leet-Code-Solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/vinay-nandanwar/Leet-Code-Solution/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
@@ -27,5 +28,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/vinay-nandanwar/Leet-Code-Solution/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/vinay-nandanwar/Leet-Code-Solution/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
